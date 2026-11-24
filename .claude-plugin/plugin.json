@@ -1,0 +1,15 @@
+{
+  "name": "alicerce-do-copy",
+  "description": "A skill que monta o Alicerce de Copy com você, conversando: junta o que o seu público já falou, conta o que mais se repete e entrega o documento pronto. Feita pra quem nunca fez pesquisa de público.",
+  "version": "2.0.0",
+  "author": {
+    "name": "Heitor Toledo",
+    "url": "https://instagram.com/oheitortoledo"
+  },
+  "keywords": [
+    "copywriting",
+    "persona",
+    "pesquisa-de-publico",
+    "infoproduto"
+  ]
+}
